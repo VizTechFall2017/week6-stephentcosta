@@ -25,7 +25,7 @@ svg.append("g")
 
 
 //import the data from the .csv file
-d3.csv('./incomeDataAllYears.csv', function(dataIn){
+d3.csv('./eastdata.csv', function(dataIn){
 
     console.log(dataIn);
 
